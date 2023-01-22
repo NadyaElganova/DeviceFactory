@@ -33,6 +33,11 @@ namespace DeviceFactory
                     var phone = worker.MakeDevice(builder, name_textBox.Text, screen_textBox.Text, model_textBox.Text, body_textBox.Text);
                     UpdateLabel(phone, label1);
                     break;
+                case "Laptop":
+                    builder = new LaptopBuilder(new Laptop());
+                    var laptop = worker.MakeDevice(builder, name_textBox.Text, screen_textBox.Text, model_textBox.Text, body_textBox.Text);
+                    UpdateLabel(laptop, label1);
+                    break;
             }
         }
         private void UpdateLabel(IDevice device, Label label)
