@@ -49,7 +49,7 @@ namespace DeviceFactory
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(183, 57);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Создать";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -63,28 +63,28 @@ namespace DeviceFactory
             // 
             // name_textBox
             // 
-            this.name_textBox.Location = new System.Drawing.Point(61, 38);
+            this.name_textBox.Location = new System.Drawing.Point(108, 44);
             this.name_textBox.Name = "name_textBox";
             this.name_textBox.Size = new System.Drawing.Size(100, 22);
             this.name_textBox.TabIndex = 4;
             // 
             // model_textBox
             // 
-            this.model_textBox.Location = new System.Drawing.Point(197, 38);
+            this.model_textBox.Location = new System.Drawing.Point(244, 44);
             this.model_textBox.Name = "model_textBox";
             this.model_textBox.Size = new System.Drawing.Size(100, 22);
             this.model_textBox.TabIndex = 5;
             // 
             // body_textBox
             // 
-            this.body_textBox.Location = new System.Drawing.Point(327, 38);
+            this.body_textBox.Location = new System.Drawing.Point(374, 44);
             this.body_textBox.Name = "body_textBox";
             this.body_textBox.Size = new System.Drawing.Size(100, 22);
             this.body_textBox.TabIndex = 6;
             // 
             // screen_textBox
             // 
-            this.screen_textBox.Location = new System.Drawing.Point(455, 38);
+            this.screen_textBox.Location = new System.Drawing.Point(502, 44);
             this.screen_textBox.Name = "screen_textBox";
             this.screen_textBox.Size = new System.Drawing.Size(100, 22);
             this.screen_textBox.TabIndex = 7;
@@ -92,7 +92,7 @@ namespace DeviceFactory
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(58, 18);
+            this.label3.Location = new System.Drawing.Point(105, 24);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(43, 17);
             this.label3.TabIndex = 8;
@@ -101,7 +101,7 @@ namespace DeviceFactory
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(324, 18);
+            this.label4.Location = new System.Drawing.Point(371, 24);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(39, 17);
             this.label4.TabIndex = 9;
@@ -110,7 +110,7 @@ namespace DeviceFactory
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(461, 18);
+            this.label5.Location = new System.Drawing.Point(508, 24);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(51, 17);
             this.label5.TabIndex = 10;
@@ -119,7 +119,7 @@ namespace DeviceFactory
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(194, 18);
+            this.label6.Location = new System.Drawing.Point(241, 24);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(46, 17);
             this.label6.TabIndex = 11;
@@ -130,15 +130,16 @@ namespace DeviceFactory
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "Phone",
-            "Pad"});
-            this.comboBox1.Location = new System.Drawing.Point(247, 66);
+            "Pad",
+            "Laptop"});
+            this.comboBox1.Location = new System.Drawing.Point(247, 86);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(164, 24);
+            this.comboBox1.Size = new System.Drawing.Size(180, 24);
             this.comboBox1.TabIndex = 12;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(502, 318);
+            this.button2.Location = new System.Drawing.Point(475, 318);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(183, 57);
             this.button2.TabIndex = 13;

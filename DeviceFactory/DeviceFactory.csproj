@@ -55,6 +55,8 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="IDevice.cs" />
+    <Compile Include="Laptop.cs" />
+    <Compile Include="LaptopBuilder.cs" />
     <Compile Include="Pad.cs" />
     <Compile Include="PadBuilder.cs" />
     <Compile Include="Phone.cs" />
