@@ -1,0 +1,10 @@
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\bin\Debug\DeviceFactory.exe.config
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\bin\Debug\DeviceFactory.exe
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\bin\Debug\DeviceFactory.pdb
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.csproj.AssemblyReference.cache
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.Form1.resources
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.Properties.Resources.resources
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.csproj.GenerateResource.cache
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.csproj.CoreCompileInputs.cache
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.exe
+D:\С#\Проекты\В классе\DeviceFactory\DeviceFactory\obj\Debug\DeviceFactory.pdb
